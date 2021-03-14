@@ -52,11 +52,7 @@ Once CodeSandbox completes the project setup, you'll see a live preview on the r
 
 Making any changes to your project code will update the live preview right away. 
 
-To complete the set up, create a `auth_config.json` file under the project directory:
-
-```bash
-touch auth_config.json
-```
+To complete the set up, create a `auth_config.json` file under the project directory.
 
 ## 2. Register a Client Application with Auth0
 
